@@ -29,5 +29,6 @@ This repository contains tools and scripts for building a linear regression mode
 - Rename `pts_scrape_and_combine.ipynb` for clarity.
 - Expand prediction models to include additional machine learning techniques.
 - Add visualization tools for feature importance and model performance.
+- add `requirements.txt` containing all relevant packages
 
 ## Contributions

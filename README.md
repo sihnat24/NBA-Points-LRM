@@ -1,8 +1,6 @@
 # NBA-Points-LRM
 
-This repository contains tools and scripts for building a linear regression model to predict NBA players' points scored in games, based on their performance metrics. The workflow involves data scraping, feature analysis, and dataset preparation.
-
-## Repository Structure
+This repository contains tools and scripts for building a linear regression model to predict NBA players' points scored in games, based on their performance metrics. The workflow involves data scraping, feature analysis, and dataset preparation. All data is provided by https://www.basketball-reference.com/.
 
 ### **1. `BBR_scraper.ipynb`**
 - Reads a CSV file with player IDs for an entire NBA season.
@@ -33,4 +31,3 @@ This repository contains tools and scripts for building a linear regression mode
 - Add visualization tools for feature importance and model performance.
 
 ## Contributions
-Feel free to fork this repository and submit pull requests to improve the model or add new features.

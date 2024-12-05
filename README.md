@@ -31,4 +31,4 @@ This repository contains tools and scripts for building a linear regression mode
 - Add visualization tools for feature importance and model performance.
 - add `requirements.txt` containing all relevant packages
 
-## Contributions
+
